@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: phasin
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: gun_p
+Implementation-Vendor-Id: phasin
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://projects.spring.io/spring-boot/phasin/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
